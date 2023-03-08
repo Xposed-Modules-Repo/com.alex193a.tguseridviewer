@@ -7,5 +7,7 @@ No configuration needed, install and restart Telegram then the user ID will be s
 # Compatibility
 
 Telegram (org.telegram.messenger)
+
 Telegram Beta (org.telegram.messenger.beta)
+
 Telegram Web APK (org.telegram.messenger.web)
